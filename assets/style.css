@@ -6,7 +6,7 @@
   --rule:     #5d6342;   /* hairline dividers */
   --accent:   #d9a566;   /* warm brass — reads well on olive */
   --accent-d: #e8bd84;
-  --serif: "Spectral", Georgia, "Noto Serif TC", serif;
+  --serif: "Playfair", Georgia, "Noto Serif TC", serif;
   --sans:  "Inter", -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif;
 }
 
